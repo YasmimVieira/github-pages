@@ -62,7 +62,7 @@ Assim o Github já entenderá que esse repósitorio será hospedado.
 
 - Após esses passos, assim que você der um git push ele já irá publicar seu projeto! É só procurar no google o endereço como "username.github.io"
 
-<imagem-projeto-publicado>
+![gif](https://github.com/YasmimVieira/github-pages/blob/master/img/github.gif)
 
 ## Referências
 
