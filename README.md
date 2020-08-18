@@ -5,7 +5,7 @@ Esse mini tutorial tem como intituito explicar de forma simples e prática como 
 ## O que é github pages?
 
 > O Github é um sistemas de genrenciamento de projetos e versionamento de código,
-> ele é muito utilizado por diversas empresas, grandes e pequenas, para podeream 
+> ele é muito utilizado por diversas empresas, grandes e pequenas, para 
 > trabalhar em cima de um projeto. 
 > Por tanto, o Github é uma plataforma muito robusta e nos da várias funcionalidades e 
 > uma delas é a hospedagem de sites estáticos.
